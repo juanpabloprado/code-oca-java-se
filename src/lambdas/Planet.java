@@ -49,7 +49,7 @@ public class Planet {
 
 	@Override
 	public String toString() {
-		return "Planet [name=" + name + "]";
+		return name;
 	}
 	
 	
